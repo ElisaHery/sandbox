@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ElisaHery/sandbox/issues"
   },
-  "homepage": "https://github.com/ElisaHery/sandbox#readme"
+  "homepage": "https://github.com/ElisaHery/sandbox#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
 }
