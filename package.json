@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/ElisaHery/sandbox#readme",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "webpack": "^4.29.5"
+  }
 }
