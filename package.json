@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/ElisaHery/sandbox#readme",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "gulp-cli": "^2.0.1"
+  }
 }
